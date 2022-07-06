@@ -1,11 +1,11 @@
 {
-    "name": "nikcani/smart-inventory-snipe-it-plugin",
+    "name": "nikcani/io-terminal-snipe-it-plugin",
     "description": "",
     "keywords": [
         "nikcani",
-        "smart-inventory-snipe-it-plugin"
+        "io-terminal-snipe-it-plugin"
     ],
-    "homepage": "https://github.com/nikcani/smart-inventory-snipe-it-plugin",
+    "homepage": "https://github.com/nikcani/io-terminal-snipe-it-plugin",
     "license": "GPL-2.0-or-later",
     "type": "library",
     "authors": [
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Nikcani\\SmartInventorySnipeItPlugin\\": "src"
+            "Nikcani\\IoTerminalSnipeItPlugin\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Nikcani\\SmartInventorySnipeItPlugin\\Tests\\": "tests"
+            "Nikcani\\IoTerminalSnipeItPlugin\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,10 +44,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nikcani\\SmartInventorySnipeItPlugin\\SmartInventorySnipeItPluginServiceProvider"
+                "IoTerminalSnipeItPluginServiceProvider"
             ],
             "aliases": {
-                "SmartInventorySnipeItPlugin": "Nikcani\\SmartInventorySnipeItPlugin\\SmartInventorySnipeItPluginFacade"
+                "IoTerminalSnipeItPlugin": "IoTerminalSnipeItPluginFacade"
             }
         }
     }

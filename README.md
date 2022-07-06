@@ -1,8 +1,8 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nikcani/smart-inventory-snipe-it-plugin.svg?style=flat-square)](https://packagist.org/packages/nikcani/smart-inventory-snipe-it-plugin)
-[![Total Downloads](https://img.shields.io/packagist/dt/nikcani/smart-inventory-snipe-it-plugin.svg?style=flat-square)](https://packagist.org/packages/nikcani/smart-inventory-snipe-it-plugin)
-![GitHub Actions](https://github.com/nikcani/smart-inventory-snipe-it-plugin/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/nikcani/io-terminal-snipe-it-plugin.svg?style=flat-square)](https://packagist.org/packages/nikcani/io-terminal-snipe-it-plugin)
+[![Total Downloads](https://img.shields.io/packagist/dt/nikcani/io-terminal-snipe-it-plugin.svg?style=flat-square)](https://packagist.org/packages/nikcani/io-terminal-snipe-it-plugin)
+![GitHub Actions](https://github.com/nikcani/io-terminal-snipe-it-plugin/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
@@ -11,7 +11,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require nikcani/smart-inventory-snipe-it-plugin
+composer require nikcani/io-terminal-snipe-it-plugin
 ```
 
 ## Usage
